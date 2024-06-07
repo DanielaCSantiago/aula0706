@@ -1,0 +1,2 @@
+# aula0706
+Aula BSI GAPO 2024
